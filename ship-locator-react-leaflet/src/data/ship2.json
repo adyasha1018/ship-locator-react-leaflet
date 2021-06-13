@@ -1,0 +1,3495 @@
+[
+    {
+      "latitude": 64.152,
+      "longitude": -21.932,
+      "date": 20080401,
+      "time": 1006,
+      "speed": 26
+    },
+    {
+      "latitude": 64.152,
+      "longitude": -21.931,
+      "date": 20080401,
+      "time": 1006,
+      "speed": 26
+    },
+    {
+      "latitude": 64.153,
+      "longitude": -21.928,
+      "date": 20080401,
+      "time": 1007,
+      "speed": 17
+    },
+    {
+      "latitude": 64.154,
+      "longitude": -21.926,
+      "date": 20080401,
+      "time": 1008,
+      "speed": 29
+    },
+    {
+      "latitude": 64.157,
+      "longitude": -21.924,
+      "date": 20080401,
+      "time": 1009,
+      "speed": 30
+    },
+    {
+      "latitude": 64.159,
+      "longitude": -21.924,
+      "date": 20080401,
+      "time": 1010,
+      "speed": 13
+    },
+    {
+      "latitude": 64.161,
+      "longitude": -21.925,
+      "date": 20080401,
+      "time": 1011,
+      "speed": 24
+    },
+    {
+      "latitude": 64.163,
+      "longitude": -21.927,
+      "date": 20080401,
+      "time": 1012,
+      "speed": 19
+    },
+    {
+      "latitude": 64.165,
+      "longitude": -21.929,
+      "date": 20080401,
+      "time": 1013,
+      "speed": 23
+    },
+    {
+      "latitude": 64.167,
+      "longitude": -21.932,
+      "date": 20080401,
+      "time": 1014,
+      "speed": 29
+    },
+    {
+      "latitude": 64.169,
+      "longitude": -21.934,
+      "date": 20080401,
+      "time": 1015,
+      "speed": 13
+    },
+    {
+      "latitude": 64.172,
+      "longitude": -21.936,
+      "date": 20080401,
+      "time": 1016,
+      "speed": 32
+    },
+    {
+      "latitude": 64.174,
+      "longitude": -21.939,
+      "date": 20080401,
+      "time": 1017,
+      "speed": 19
+    },
+    {
+      "latitude": 64.176,
+      "longitude": -21.941,
+      "date": 20080401,
+      "time": 1018,
+      "speed": 16
+    },
+    {
+      "latitude": 64.178,
+      "longitude": -21.944,
+      "date": 20080401,
+      "time": 1019,
+      "speed": 21
+    },
+    {
+      "latitude": 64.18,
+      "longitude": -21.946,
+      "date": 20080401,
+      "time": 1020,
+      "speed": 23
+    },
+    {
+      "latitude": 64.183,
+      "longitude": -21.948,
+      "date": 20080401,
+      "time": 1021,
+      "speed": 28
+    },
+    {
+      "latitude": 64.185,
+      "longitude": -21.952,
+      "date": 20080401,
+      "time": 1022,
+      "speed": 24
+    },
+    {
+      "latitude": 64.187,
+      "longitude": -21.955,
+      "date": 20080401,
+      "time": 1023,
+      "speed": 16
+    },
+    {
+      "latitude": 64.189,
+      "longitude": -21.958,
+      "date": 20080401,
+      "time": 1024,
+      "speed": 19
+    },
+    {
+      "latitude": 64.19,
+      "longitude": -21.962,
+      "date": 20080401,
+      "time": 1025,
+      "speed": 20
+    },
+    {
+      "latitude": 64.192,
+      "longitude": -21.967,
+      "date": 20080401,
+      "time": 1026,
+      "speed": 32
+    },
+    {
+      "latitude": 64.192,
+      "longitude": -21.972,
+      "date": 20080401,
+      "time": 1027,
+      "speed": 24
+    },
+    {
+      "latitude": 64.194,
+      "longitude": -21.978,
+      "date": 20080401,
+      "time": 1028,
+      "speed": 26
+    },
+    {
+      "latitude": 64.194,
+      "longitude": -21.983,
+      "date": 20080401,
+      "time": 1029,
+      "speed": 30
+    },
+    {
+      "latitude": 64.195,
+      "longitude": -21.988,
+      "date": 20080401,
+      "time": 1030,
+      "speed": 23
+    },
+    {
+      "latitude": 64.195,
+      "longitude": -21.994,
+      "date": 20080401,
+      "time": 1031,
+      "speed": 31
+    },
+    {
+      "latitude": 64.195,
+      "longitude": -21.999,
+      "date": 20080401,
+      "time": 1032,
+      "speed": 18
+    },
+    {
+      "latitude": 64.195,
+      "longitude": -22.005,
+      "date": 20080401,
+      "time": 1033,
+      "speed": 31
+    },
+    {
+      "latitude": 64.196,
+      "longitude": -22.01,
+      "date": 20080401,
+      "time": 1034,
+      "speed": 15
+    },
+    {
+      "latitude": 64.196,
+      "longitude": -22.016,
+      "date": 20080401,
+      "time": 1035,
+      "speed": 21
+    },
+    {
+      "latitude": 64.196,
+      "longitude": -22.022,
+      "date": 20080401,
+      "time": 1036,
+      "speed": 19
+    },
+    {
+      "latitude": 64.196,
+      "longitude": -22.027,
+      "date": 20080401,
+      "time": 1037,
+      "speed": 21
+    },
+    {
+      "latitude": 64.195,
+      "longitude": -22.033,
+      "date": 20080401,
+      "time": 1038,
+      "speed": 30
+    },
+    {
+      "latitude": 64.195,
+      "longitude": -22.038,
+      "date": 20080401,
+      "time": 1039,
+      "speed": 27
+    },
+    {
+      "latitude": 64.195,
+      "longitude": -22.044,
+      "date": 20080401,
+      "time": 1040,
+      "speed": 26
+    },
+    {
+      "latitude": 64.195,
+      "longitude": -22.05,
+      "date": 20080401,
+      "time": 1041,
+      "speed": 25
+    },
+    {
+      "latitude": 64.195,
+      "longitude": -22.055,
+      "date": 20080401,
+      "time": 1042,
+      "speed": 16
+    },
+    {
+      "latitude": 64.194,
+      "longitude": -22.061,
+      "date": 20080401,
+      "time": 1043,
+      "speed": 21
+    },
+    {
+      "latitude": 64.193,
+      "longitude": -22.067,
+      "date": 20080401,
+      "time": 1044,
+      "speed": 13
+    },
+    {
+      "latitude": 64.193,
+      "longitude": -22.073,
+      "date": 20080401,
+      "time": 1045,
+      "speed": 23
+    },
+    {
+      "latitude": 64.192,
+      "longitude": -22.078,
+      "date": 20080401,
+      "time": 1046,
+      "speed": 22
+    },
+    {
+      "latitude": 64.191,
+      "longitude": -22.084,
+      "date": 20080401,
+      "time": 1047,
+      "speed": 31
+    },
+    {
+      "latitude": 64.191,
+      "longitude": -22.09,
+      "date": 20080401,
+      "time": 1048,
+      "speed": 21
+    },
+    {
+      "latitude": 64.19,
+      "longitude": -22.096,
+      "date": 20080401,
+      "time": 1049,
+      "speed": 26
+    },
+    {
+      "latitude": 64.189,
+      "longitude": -22.102,
+      "date": 20080401,
+      "time": 1050,
+      "speed": 28
+    },
+    {
+      "latitude": 64.188,
+      "longitude": -22.108,
+      "date": 20080401,
+      "time": 1051,
+      "speed": 13
+    },
+    {
+      "latitude": 64.187,
+      "longitude": -22.113,
+      "date": 20080401,
+      "time": 1052,
+      "speed": 30
+    },
+    {
+      "latitude": 64.187,
+      "longitude": -22.119,
+      "date": 20080401,
+      "time": 1053,
+      "speed": 26
+    },
+    {
+      "latitude": 64.186,
+      "longitude": -22.125,
+      "date": 20080401,
+      "time": 1054,
+      "speed": 31
+    },
+    {
+      "latitude": 64.185,
+      "longitude": -22.131,
+      "date": 20080401,
+      "time": 1055,
+      "speed": 17
+    },
+    {
+      "latitude": 64.184,
+      "longitude": -22.137,
+      "date": 20080401,
+      "time": 1056,
+      "speed": 18
+    },
+    {
+      "latitude": 64.183,
+      "longitude": -22.142,
+      "date": 20080401,
+      "time": 1057,
+      "speed": 32
+    },
+    {
+      "latitude": 64.183,
+      "longitude": -22.148,
+      "date": 20080401,
+      "time": 1058,
+      "speed": 21
+    },
+    {
+      "latitude": 64.182,
+      "longitude": -22.154,
+      "date": 20080401,
+      "time": 1059,
+      "speed": 18
+    },
+    {
+      "latitude": 64.181,
+      "longitude": -22.16,
+      "date": 20080401,
+      "time": 1100,
+      "speed": 21
+    },
+    {
+      "latitude": 64.18,
+      "longitude": -22.166,
+      "date": 20080401,
+      "time": 1101,
+      "speed": 29
+    },
+    {
+      "latitude": 64.179,
+      "longitude": -22.171,
+      "date": 20080401,
+      "time": 1102,
+      "speed": 26
+    },
+    {
+      "latitude": 64.179,
+      "longitude": -22.177,
+      "date": 20080401,
+      "time": 1103,
+      "speed": 32
+    },
+    {
+      "latitude": 64.178,
+      "longitude": -22.183,
+      "date": 20080401,
+      "time": 1104,
+      "speed": 13
+    },
+    {
+      "latitude": 64.177,
+      "longitude": -22.189,
+      "date": 20080401,
+      "time": 1105,
+      "speed": 22
+    },
+    {
+      "latitude": 64.177,
+      "longitude": -22.195,
+      "date": 20080401,
+      "time": 1106,
+      "speed": 21
+    },
+    {
+      "latitude": 64.176,
+      "longitude": -22.201,
+      "date": 20080401,
+      "time": 1107,
+      "speed": 25
+    },
+    {
+      "latitude": 64.175,
+      "longitude": -22.207,
+      "date": 20080401,
+      "time": 1108,
+      "speed": 28
+    },
+    {
+      "latitude": 64.174,
+      "longitude": -22.213,
+      "date": 20080401,
+      "time": 1109,
+      "speed": 18
+    },
+    {
+      "latitude": 64.174,
+      "longitude": -22.22,
+      "date": 20080401,
+      "time": 1110,
+      "speed": 31
+    },
+    {
+      "latitude": 64.173,
+      "longitude": -22.227,
+      "date": 20080401,
+      "time": 1111,
+      "speed": 24
+    },
+    {
+      "latitude": 64.172,
+      "longitude": -22.234,
+      "date": 20080401,
+      "time": 1112,
+      "speed": 19
+    },
+    {
+      "latitude": 64.171,
+      "longitude": -22.241,
+      "date": 20080401,
+      "time": 1113,
+      "speed": 29
+    },
+    {
+      "latitude": 64.171,
+      "longitude": -22.248,
+      "date": 20080401,
+      "time": 1114,
+      "speed": 17
+    },
+    {
+      "latitude": 64.171,
+      "longitude": -22.256,
+      "date": 20080401,
+      "time": 1115,
+      "speed": 20
+    },
+    {
+      "latitude": 64.171,
+      "longitude": -22.263,
+      "date": 20080401,
+      "time": 1116,
+      "speed": 20
+    },
+    {
+      "latitude": 64.171,
+      "longitude": -22.27,
+      "date": 20080401,
+      "time": 1117,
+      "speed": 15
+    },
+    {
+      "latitude": 64.17,
+      "longitude": -22.277,
+      "date": 20080401,
+      "time": 1118,
+      "speed": 15
+    },
+    {
+      "latitude": 64.169,
+      "longitude": -22.284,
+      "date": 20080401,
+      "time": 1119,
+      "speed": 29
+    },
+    {
+      "latitude": 64.168,
+      "longitude": -22.291,
+      "date": 20080401,
+      "time": 1120,
+      "speed": 25
+    },
+    {
+      "latitude": 64.168,
+      "longitude": -22.298,
+      "date": 20080401,
+      "time": 1121,
+      "speed": 30
+    },
+    {
+      "latitude": 64.167,
+      "longitude": -22.305,
+      "date": 20080401,
+      "time": 1122,
+      "speed": 30
+    },
+    {
+      "latitude": 64.166,
+      "longitude": -22.312,
+      "date": 20080401,
+      "time": 1123,
+      "speed": 24
+    },
+    {
+      "latitude": 64.165,
+      "longitude": -22.319,
+      "date": 20080401,
+      "time": 1124,
+      "speed": 13
+    },
+    {
+      "latitude": 64.165,
+      "longitude": -22.326,
+      "date": 20080401,
+      "time": 1125,
+      "speed": 26
+    },
+    {
+      "latitude": 64.163,
+      "longitude": -22.333,
+      "date": 20080401,
+      "time": 1126,
+      "speed": 29
+    },
+    {
+      "latitude": 64.162,
+      "longitude": -22.34,
+      "date": 20080401,
+      "time": 1127,
+      "speed": 13
+    },
+    {
+      "latitude": 64.162,
+      "longitude": -22.348,
+      "date": 20080401,
+      "time": 1128,
+      "speed": 28
+    },
+    {
+      "latitude": 64.161,
+      "longitude": -22.354,
+      "date": 20080401,
+      "time": 1129,
+      "speed": 13
+    },
+    {
+      "latitude": 64.16,
+      "longitude": -22.361,
+      "date": 20080401,
+      "time": 1130,
+      "speed": 31
+    },
+    {
+      "latitude": 64.159,
+      "longitude": -22.368,
+      "date": 20080401,
+      "time": 1131,
+      "speed": 25
+    },
+    {
+      "latitude": 64.158,
+      "longitude": -22.375,
+      "date": 20080401,
+      "time": 1132,
+      "speed": 22
+    },
+    {
+      "latitude": 64.157,
+      "longitude": -22.382,
+      "date": 20080401,
+      "time": 1133,
+      "speed": 26
+    },
+    {
+      "latitude": 64.156,
+      "longitude": -22.39,
+      "date": 20080401,
+      "time": 1134,
+      "speed": 28
+    },
+    {
+      "latitude": 64.155,
+      "longitude": -22.397,
+      "date": 20080401,
+      "time": 1135,
+      "speed": 31
+    },
+    {
+      "latitude": 64.155,
+      "longitude": -22.404,
+      "date": 20080401,
+      "time": 1136,
+      "speed": 23
+    },
+    {
+      "latitude": 64.154,
+      "longitude": -22.411,
+      "date": 20080401,
+      "time": 1137,
+      "speed": 28
+    },
+    {
+      "latitude": 64.153,
+      "longitude": -22.418,
+      "date": 20080401,
+      "time": 1138,
+      "speed": 24
+    },
+    {
+      "latitude": 64.153,
+      "longitude": -22.425,
+      "date": 20080401,
+      "time": 1139,
+      "speed": 30
+    },
+    {
+      "latitude": 64.152,
+      "longitude": -22.432,
+      "date": 20080401,
+      "time": 1140,
+      "speed": 30
+    },
+    {
+      "latitude": 64.151,
+      "longitude": -22.439,
+      "date": 20080401,
+      "time": 1141,
+      "speed": 25
+    },
+    {
+      "latitude": 64.15,
+      "longitude": -22.446,
+      "date": 20080401,
+      "time": 1142,
+      "speed": 25
+    },
+    {
+      "latitude": 64.15,
+      "longitude": -22.453,
+      "date": 20080401,
+      "time": 1143,
+      "speed": 20
+    },
+    {
+      "latitude": 64.149,
+      "longitude": -22.461,
+      "date": 20080401,
+      "time": 1144,
+      "speed": 24
+    },
+    {
+      "latitude": 64.148,
+      "longitude": -22.468,
+      "date": 20080401,
+      "time": 1145,
+      "speed": 28
+    },
+    {
+      "latitude": 64.148,
+      "longitude": -22.475,
+      "date": 20080401,
+      "time": 1146,
+      "speed": 27
+    },
+    {
+      "latitude": 64.147,
+      "longitude": -22.482,
+      "date": 20080401,
+      "time": 1147,
+      "speed": 18
+    },
+    {
+      "latitude": 64.146,
+      "longitude": -22.489,
+      "date": 20080401,
+      "time": 1148,
+      "speed": 16
+    },
+    {
+      "latitude": 64.145,
+      "longitude": -22.496,
+      "date": 20080401,
+      "time": 1149,
+      "speed": 20
+    },
+    {
+      "latitude": 64.145,
+      "longitude": -22.503,
+      "date": 20080401,
+      "time": 1150,
+      "speed": 23
+    },
+    {
+      "latitude": 64.144,
+      "longitude": -22.51,
+      "date": 20080401,
+      "time": 1151,
+      "speed": 17
+    },
+    {
+      "latitude": 64.144,
+      "longitude": -22.517,
+      "date": 20080401,
+      "time": 1152,
+      "speed": 24
+    },
+    {
+      "latitude": 64.143,
+      "longitude": -22.524,
+      "date": 20080401,
+      "time": 1153,
+      "speed": 13
+    },
+    {
+      "latitude": 64.142,
+      "longitude": -22.532,
+      "date": 20080401,
+      "time": 1154,
+      "speed": 13
+    },
+    {
+      "latitude": 64.141,
+      "longitude": -22.539,
+      "date": 20080401,
+      "time": 1155,
+      "speed": 32
+    },
+    {
+      "latitude": 64.141,
+      "longitude": -22.546,
+      "date": 20080401,
+      "time": 1156,
+      "speed": 20
+    },
+    {
+      "latitude": 64.14,
+      "longitude": -22.553,
+      "date": 20080401,
+      "time": 1157,
+      "speed": 25
+    },
+    {
+      "latitude": 64.139,
+      "longitude": -22.56,
+      "date": 20080401,
+      "time": 1158,
+      "speed": 26
+    },
+    {
+      "latitude": 64.139,
+      "longitude": -22.567,
+      "date": 20080401,
+      "time": 1159,
+      "speed": 20
+    },
+    {
+      "latitude": 64.138,
+      "longitude": -22.574,
+      "date": 20080401,
+      "time": 1200,
+      "speed": 16
+    },
+    {
+      "latitude": 64.137,
+      "longitude": -22.581,
+      "date": 20080401,
+      "time": 1201,
+      "speed": 28
+    },
+    {
+      "latitude": 64.137,
+      "longitude": -22.588,
+      "date": 20080401,
+      "time": 1202,
+      "speed": 28
+    },
+    {
+      "latitude": 64.136,
+      "longitude": -22.595,
+      "date": 20080401,
+      "time": 1203,
+      "speed": 14
+    },
+    {
+      "latitude": 64.135,
+      "longitude": -22.602,
+      "date": 20080401,
+      "time": 1204,
+      "speed": 20
+    },
+    {
+      "latitude": 64.134,
+      "longitude": -22.609,
+      "date": 20080401,
+      "time": 1205,
+      "speed": 14
+    },
+    {
+      "latitude": 64.133,
+      "longitude": -22.616,
+      "date": 20080401,
+      "time": 1206,
+      "speed": 13
+    },
+    {
+      "latitude": 64.133,
+      "longitude": -22.623,
+      "date": 20080401,
+      "time": 1207,
+      "speed": 21
+    },
+    {
+      "latitude": 64.132,
+      "longitude": -22.63,
+      "date": 20080401,
+      "time": 1208,
+      "speed": 22
+    },
+    {
+      "latitude": 64.131,
+      "longitude": -22.637,
+      "date": 20080401,
+      "time": 1209,
+      "speed": 18
+    },
+    {
+      "latitude": 64.13,
+      "longitude": -22.644,
+      "date": 20080401,
+      "time": 1210,
+      "speed": 29
+    },
+    {
+      "latitude": 64.129,
+      "longitude": -22.651,
+      "date": 20080401,
+      "time": 1211,
+      "speed": 17
+    },
+    {
+      "latitude": 64.129,
+      "longitude": -22.658,
+      "date": 20080401,
+      "time": 1212,
+      "speed": 18
+    },
+    {
+      "latitude": 64.128,
+      "longitude": -22.664,
+      "date": 20080401,
+      "time": 1213,
+      "speed": 23
+    },
+    {
+      "latitude": 64.127,
+      "longitude": -22.672,
+      "date": 20080401,
+      "time": 1214,
+      "speed": 26
+    },
+    {
+      "latitude": 64.126,
+      "longitude": -22.678,
+      "date": 20080401,
+      "time": 1215,
+      "speed": 18
+    },
+    {
+      "latitude": 64.125,
+      "longitude": -22.685,
+      "date": 20080401,
+      "time": 1216,
+      "speed": 20
+    },
+    {
+      "latitude": 64.124,
+      "longitude": -22.692,
+      "date": 20080401,
+      "time": 1217,
+      "speed": 21
+    },
+    {
+      "latitude": 64.124,
+      "longitude": -22.699,
+      "date": 20080401,
+      "time": 1218,
+      "speed": 19
+    },
+    {
+      "latitude": 64.123,
+      "longitude": -22.706,
+      "date": 20080401,
+      "time": 1219,
+      "speed": 23
+    },
+    {
+      "latitude": 64.122,
+      "longitude": -22.713,
+      "date": 20080401,
+      "time": 1220,
+      "speed": 20
+    },
+    {
+      "latitude": 64.12,
+      "longitude": -22.718,
+      "date": 20080401,
+      "time": 1221,
+      "speed": 28
+    },
+    {
+      "latitude": 64.118,
+      "longitude": -22.723,
+      "date": 20080401,
+      "time": 1222,
+      "speed": 22
+    },
+    {
+      "latitude": 64.115,
+      "longitude": -22.728,
+      "date": 20080401,
+      "time": 1223,
+      "speed": 21
+    },
+    {
+      "latitude": 64.113,
+      "longitude": -22.733,
+      "date": 20080401,
+      "time": 1224,
+      "speed": 19
+    },
+    {
+      "latitude": 64.111,
+      "longitude": -22.737,
+      "date": 20080401,
+      "time": 1225,
+      "speed": 26
+    },
+    {
+      "latitude": 64.109,
+      "longitude": -22.742,
+      "date": 20080401,
+      "time": 1226,
+      "speed": 23
+    },
+    {
+      "latitude": 64.106,
+      "longitude": -22.747,
+      "date": 20080401,
+      "time": 1227,
+      "speed": 31
+    },
+    {
+      "latitude": 64.104,
+      "longitude": -22.752,
+      "date": 20080401,
+      "time": 1228,
+      "speed": 21
+    },
+    {
+      "latitude": 64.102,
+      "longitude": -22.757,
+      "date": 20080401,
+      "time": 1229,
+      "speed": 21
+    },
+    {
+      "latitude": 64.1,
+      "longitude": -22.762,
+      "date": 20080401,
+      "time": 1230,
+      "speed": 30
+    },
+    {
+      "latitude": 64.097,
+      "longitude": -22.767,
+      "date": 20080401,
+      "time": 1231,
+      "speed": 16
+    },
+    {
+      "latitude": 64.095,
+      "longitude": -22.772,
+      "date": 20080401,
+      "time": 1232,
+      "speed": 29
+    },
+    {
+      "latitude": 64.093,
+      "longitude": -22.777,
+      "date": 20080401,
+      "time": 1233,
+      "speed": 30
+    },
+    {
+      "latitude": 64.091,
+      "longitude": -22.782,
+      "date": 20080401,
+      "time": 1234,
+      "speed": 32
+    },
+    {
+      "latitude": 64.089,
+      "longitude": -22.786,
+      "date": 20080401,
+      "time": 1235,
+      "speed": 18
+    },
+    {
+      "latitude": 64.086,
+      "longitude": -22.789,
+      "date": 20080401,
+      "time": 1236,
+      "speed": 27
+    },
+    {
+      "latitude": 64.083,
+      "longitude": -22.79,
+      "date": 20080401,
+      "time": 1237,
+      "speed": 17
+    },
+    {
+      "latitude": 64.08,
+      "longitude": -22.791,
+      "date": 20080401,
+      "time": 1238,
+      "speed": 30
+    },
+    {
+      "latitude": 64.077,
+      "longitude": -22.791,
+      "date": 20080401,
+      "time": 1239,
+      "speed": 31
+    },
+    {
+      "latitude": 64.074,
+      "longitude": -22.792,
+      "date": 20080401,
+      "time": 1240,
+      "speed": 31
+    },
+    {
+      "latitude": 64.071,
+      "longitude": -22.793,
+      "date": 20080401,
+      "time": 1241,
+      "speed": 30
+    },
+    {
+      "latitude": 64.068,
+      "longitude": -22.794,
+      "date": 20080401,
+      "time": 1242,
+      "speed": 28
+    },
+    {
+      "latitude": 64.065,
+      "longitude": -22.795,
+      "date": 20080401,
+      "time": 1243,
+      "speed": 28
+    },
+    {
+      "latitude": 64.062,
+      "longitude": -22.796,
+      "date": 20080401,
+      "time": 1244,
+      "speed": 14
+    },
+    {
+      "latitude": 64.059,
+      "longitude": -22.796,
+      "date": 20080401,
+      "time": 1245,
+      "speed": 25
+    },
+    {
+      "latitude": 64.055,
+      "longitude": -22.797,
+      "date": 20080401,
+      "time": 1246,
+      "speed": 21
+    },
+    {
+      "latitude": 64.052,
+      "longitude": -22.798,
+      "date": 20080401,
+      "time": 1247,
+      "speed": 15
+    },
+    {
+      "latitude": 64.049,
+      "longitude": -22.799,
+      "date": 20080401,
+      "time": 1248,
+      "speed": 23
+    },
+    {
+      "latitude": 64.046,
+      "longitude": -22.8,
+      "date": 20080401,
+      "time": 1249,
+      "speed": 19
+    },
+    {
+      "latitude": 64.043,
+      "longitude": -22.801,
+      "date": 20080401,
+      "time": 1250,
+      "speed": 25
+    },
+    {
+      "latitude": 64.04,
+      "longitude": -22.802,
+      "date": 20080401,
+      "time": 1251,
+      "speed": 20
+    },
+    {
+      "latitude": 64.037,
+      "longitude": -22.803,
+      "date": 20080401,
+      "time": 1252,
+      "speed": 22
+    },
+    {
+      "latitude": 64.034,
+      "longitude": -22.804,
+      "date": 20080401,
+      "time": 1253,
+      "speed": 15
+    },
+    {
+      "latitude": 64.031,
+      "longitude": -22.805,
+      "date": 20080401,
+      "time": 1254,
+      "speed": 15
+    },
+    {
+      "latitude": 64.028,
+      "longitude": -22.806,
+      "date": 20080401,
+      "time": 1255,
+      "speed": 14
+    },
+    {
+      "latitude": 64.025,
+      "longitude": -22.807,
+      "date": 20080401,
+      "time": 1256,
+      "speed": 13
+    },
+    {
+      "latitude": 64.022,
+      "longitude": -22.808,
+      "date": 20080401,
+      "time": 1257,
+      "speed": 20
+    },
+    {
+      "latitude": 64.019,
+      "longitude": -22.809,
+      "date": 20080401,
+      "time": 1258,
+      "speed": 20
+    },
+    {
+      "latitude": 64.016,
+      "longitude": -22.81,
+      "date": 20080401,
+      "time": 1259,
+      "speed": 24
+    },
+    {
+      "latitude": 64.013,
+      "longitude": -22.811,
+      "date": 20080401,
+      "time": 1300,
+      "speed": 20
+    },
+    {
+      "latitude": 64.01,
+      "longitude": -22.812,
+      "date": 20080401,
+      "time": 1301,
+      "speed": 27
+    },
+    {
+      "latitude": 64.007,
+      "longitude": -22.813,
+      "date": 20080401,
+      "time": 1302,
+      "speed": 28
+    },
+    {
+      "latitude": 64.004,
+      "longitude": -22.814,
+      "date": 20080401,
+      "time": 1303,
+      "speed": 17
+    },
+    {
+      "latitude": 64.001,
+      "longitude": -22.815,
+      "date": 20080401,
+      "time": 1304,
+      "speed": 30
+    },
+    {
+      "latitude": 63.998,
+      "longitude": -22.816,
+      "date": 20080401,
+      "time": 1305,
+      "speed": 31
+    },
+    {
+      "latitude": 63.995,
+      "longitude": -22.817,
+      "date": 20080401,
+      "time": 1306,
+      "speed": 27
+    },
+    {
+      "latitude": 63.992,
+      "longitude": -22.818,
+      "date": 20080401,
+      "time": 1307,
+      "speed": 32
+    },
+    {
+      "latitude": 63.989,
+      "longitude": -22.819,
+      "date": 20080401,
+      "time": 1308,
+      "speed": 17
+    },
+    {
+      "latitude": 63.986,
+      "longitude": -22.821,
+      "date": 20080401,
+      "time": 1309,
+      "speed": 26
+    },
+    {
+      "latitude": 63.983,
+      "longitude": -22.822,
+      "date": 20080401,
+      "time": 1310,
+      "speed": 19
+    },
+    {
+      "latitude": 63.98,
+      "longitude": -22.823,
+      "date": 20080401,
+      "time": 1311,
+      "speed": 22
+    },
+    {
+      "latitude": 63.977,
+      "longitude": -22.824,
+      "date": 20080401,
+      "time": 1312,
+      "speed": 13
+    },
+    {
+      "latitude": 63.974,
+      "longitude": -22.826,
+      "date": 20080401,
+      "time": 1313,
+      "speed": 32
+    },
+    {
+      "latitude": 63.971,
+      "longitude": -22.827,
+      "date": 20080401,
+      "time": 1314,
+      "speed": 24
+    },
+    {
+      "latitude": 63.968,
+      "longitude": -22.828,
+      "date": 20080401,
+      "time": 1315,
+      "speed": 31
+    },
+    {
+      "latitude": 63.965,
+      "longitude": -22.83,
+      "date": 20080401,
+      "time": 1316,
+      "speed": 15
+    },
+    {
+      "latitude": 63.962,
+      "longitude": -22.83,
+      "date": 20080401,
+      "time": 1317,
+      "speed": 17
+    },
+    {
+      "latitude": 63.959,
+      "longitude": -22.831,
+      "date": 20080401,
+      "time": 1318,
+      "speed": 13
+    },
+    {
+      "latitude": 63.956,
+      "longitude": -22.832,
+      "date": 20080401,
+      "time": 1319,
+      "speed": 30
+    },
+    {
+      "latitude": 63.953,
+      "longitude": -22.832,
+      "date": 20080401,
+      "time": 1320,
+      "speed": 22
+    },
+    {
+      "latitude": 63.95,
+      "longitude": -22.832,
+      "date": 20080401,
+      "time": 1321,
+      "speed": 17
+    },
+    {
+      "latitude": 63.947,
+      "longitude": -22.832,
+      "date": 20080401,
+      "time": 1322,
+      "speed": 13
+    },
+    {
+      "latitude": 63.944,
+      "longitude": -22.832,
+      "date": 20080401,
+      "time": 1323,
+      "speed": 21
+    },
+    {
+      "latitude": 63.941,
+      "longitude": -22.832,
+      "date": 20080401,
+      "time": 1324,
+      "speed": 21
+    },
+    {
+      "latitude": 63.938,
+      "longitude": -22.832,
+      "date": 20080401,
+      "time": 1325,
+      "speed": 29
+    },
+    {
+      "latitude": 63.934,
+      "longitude": -22.832,
+      "date": 20080401,
+      "time": 1326,
+      "speed": 30
+    },
+    {
+      "latitude": 63.932,
+      "longitude": -22.832,
+      "date": 20080401,
+      "time": 1327,
+      "speed": 27
+    },
+    {
+      "latitude": 63.929,
+      "longitude": -22.832,
+      "date": 20080401,
+      "time": 1328,
+      "speed": 31
+    },
+    {
+      "latitude": 63.925,
+      "longitude": -22.832,
+      "date": 20080401,
+      "time": 1329,
+      "speed": 17
+    },
+    {
+      "latitude": 63.922,
+      "longitude": -22.832,
+      "date": 20080401,
+      "time": 1330,
+      "speed": 21
+    },
+    {
+      "latitude": 63.919,
+      "longitude": -22.832,
+      "date": 20080401,
+      "time": 1331,
+      "speed": 28
+    },
+    {
+      "latitude": 63.916,
+      "longitude": -22.833,
+      "date": 20080401,
+      "time": 1332,
+      "speed": 20
+    },
+    {
+      "latitude": 63.913,
+      "longitude": -22.833,
+      "date": 20080401,
+      "time": 1333,
+      "speed": 29
+    },
+    {
+      "latitude": 63.91,
+      "longitude": -22.833,
+      "date": 20080401,
+      "time": 1334,
+      "speed": 27
+    },
+    {
+      "latitude": 63.907,
+      "longitude": -22.833,
+      "date": 20080401,
+      "time": 1335,
+      "speed": 15
+    },
+    {
+      "latitude": 63.904,
+      "longitude": -22.832,
+      "date": 20080401,
+      "time": 1336,
+      "speed": 25
+    },
+    {
+      "latitude": 63.901,
+      "longitude": -22.832,
+      "date": 20080401,
+      "time": 1337,
+      "speed": 17
+    },
+    {
+      "latitude": 63.898,
+      "longitude": -22.833,
+      "date": 20080401,
+      "time": 1338,
+      "speed": 22
+    },
+    {
+      "latitude": 63.895,
+      "longitude": -22.833,
+      "date": 20080401,
+      "time": 1339,
+      "speed": 23
+    },
+    {
+      "latitude": 63.892,
+      "longitude": -22.832,
+      "date": 20080401,
+      "time": 1340,
+      "speed": 21
+    },
+    {
+      "latitude": 63.888,
+      "longitude": -22.832,
+      "date": 20080401,
+      "time": 1341,
+      "speed": 29
+    },
+    {
+      "latitude": 63.885,
+      "longitude": -22.832,
+      "date": 20080401,
+      "time": 1342,
+      "speed": 28
+    },
+    {
+      "latitude": 63.882,
+      "longitude": -22.832,
+      "date": 20080401,
+      "time": 1343,
+      "speed": 18
+    },
+    {
+      "latitude": 63.879,
+      "longitude": -22.832,
+      "date": 20080401,
+      "time": 1344,
+      "speed": 17
+    },
+    {
+      "latitude": 63.876,
+      "longitude": -22.831,
+      "date": 20080401,
+      "time": 1345,
+      "speed": 32
+    },
+    {
+      "latitude": 63.873,
+      "longitude": -22.831,
+      "date": 20080401,
+      "time": 1346,
+      "speed": 32
+    },
+    {
+      "latitude": 63.87,
+      "longitude": -22.831,
+      "date": 20080401,
+      "time": 1347,
+      "speed": 23
+    },
+    {
+      "latitude": 63.867,
+      "longitude": -22.831,
+      "date": 20080401,
+      "time": 1348,
+      "speed": 32
+    },
+    {
+      "latitude": 63.864,
+      "longitude": -22.831,
+      "date": 20080401,
+      "time": 1349,
+      "speed": 23
+    },
+    {
+      "latitude": 63.861,
+      "longitude": -22.831,
+      "date": 20080401,
+      "time": 1350,
+      "speed": 29
+    },
+    {
+      "latitude": 63.858,
+      "longitude": -22.83,
+      "date": 20080401,
+      "time": 1351,
+      "speed": 17
+    },
+    {
+      "latitude": 63.855,
+      "longitude": -22.83,
+      "date": 20080401,
+      "time": 1352,
+      "speed": 30
+    },
+    {
+      "latitude": 63.852,
+      "longitude": -22.83,
+      "date": 20080401,
+      "time": 1353,
+      "speed": 15
+    },
+    {
+      "latitude": 63.849,
+      "longitude": -22.83,
+      "date": 20080401,
+      "time": 1354,
+      "speed": 15
+    },
+    {
+      "latitude": 63.847,
+      "longitude": -22.83,
+      "date": 20080401,
+      "time": 1355,
+      "speed": 17
+    },
+    {
+      "latitude": 63.844,
+      "longitude": -22.83,
+      "date": 20080401,
+      "time": 1356,
+      "speed": 23
+    },
+    {
+      "latitude": 63.841,
+      "longitude": -22.83,
+      "date": 20080401,
+      "time": 1357,
+      "speed": 31
+    },
+    {
+      "latitude": 63.838,
+      "longitude": -22.83,
+      "date": 20080401,
+      "time": 1358,
+      "speed": 28
+    },
+    {
+      "latitude": 63.836,
+      "longitude": -22.83,
+      "date": 20080401,
+      "time": 1359,
+      "speed": 22
+    },
+    {
+      "latitude": 63.833,
+      "longitude": -22.83,
+      "date": 20080401,
+      "time": 1400,
+      "speed": 20
+    },
+    {
+      "latitude": 63.83,
+      "longitude": -22.83,
+      "date": 20080401,
+      "time": 1401,
+      "speed": 29
+    },
+    {
+      "latitude": 63.827,
+      "longitude": -22.829,
+      "date": 20080401,
+      "time": 1402,
+      "speed": 20
+    },
+    {
+      "latitude": 63.824,
+      "longitude": -22.829,
+      "date": 20080401,
+      "time": 1403,
+      "speed": 27
+    },
+    {
+      "latitude": 63.821,
+      "longitude": -22.829,
+      "date": 20080401,
+      "time": 1404,
+      "speed": 19
+    },
+    {
+      "latitude": 63.819,
+      "longitude": -22.828,
+      "date": 20080401,
+      "time": 1405,
+      "speed": 30
+    },
+    {
+      "latitude": 63.816,
+      "longitude": -22.828,
+      "date": 20080401,
+      "time": 1406,
+      "speed": 24
+    },
+    {
+      "latitude": 63.813,
+      "longitude": -22.828,
+      "date": 20080401,
+      "time": 1407,
+      "speed": 22
+    },
+    {
+      "latitude": 63.81,
+      "longitude": -22.828,
+      "date": 20080401,
+      "time": 1408,
+      "speed": 20
+    },
+    {
+      "latitude": 63.807,
+      "longitude": -22.828,
+      "date": 20080401,
+      "time": 1409,
+      "speed": 26
+    },
+    {
+      "latitude": 63.805,
+      "longitude": -22.828,
+      "date": 20080401,
+      "time": 1410,
+      "speed": 31
+    },
+    {
+      "latitude": 63.802,
+      "longitude": -22.828,
+      "date": 20080401,
+      "time": 1411,
+      "speed": 17
+    },
+    {
+      "latitude": 63.8,
+      "longitude": -22.826,
+      "date": 20080401,
+      "time": 1412,
+      "speed": 18
+    },
+    {
+      "latitude": 63.799,
+      "longitude": -22.823,
+      "date": 20080401,
+      "time": 1413,
+      "speed": 29
+    },
+    {
+      "latitude": 63.798,
+      "longitude": -22.82,
+      "date": 20080401,
+      "time": 1414,
+      "speed": 20
+    },
+    {
+      "latitude": 63.797,
+      "longitude": -22.815,
+      "date": 20080401,
+      "time": 1415,
+      "speed": 21
+    },
+    {
+      "latitude": 63.796,
+      "longitude": -22.81,
+      "date": 20080401,
+      "time": 1416,
+      "speed": 25
+    },
+    {
+      "latitude": 63.795,
+      "longitude": -22.804,
+      "date": 20080401,
+      "time": 1417,
+      "speed": 28
+    },
+    {
+      "latitude": 63.794,
+      "longitude": -22.799,
+      "date": 20080401,
+      "time": 1418,
+      "speed": 15
+    },
+    {
+      "latitude": 63.793,
+      "longitude": -22.794,
+      "date": 20080401,
+      "time": 1419,
+      "speed": 22
+    },
+    {
+      "latitude": 63.792,
+      "longitude": -22.789,
+      "date": 20080401,
+      "time": 1420,
+      "speed": 24
+    },
+    {
+      "latitude": 63.791,
+      "longitude": -22.784,
+      "date": 20080401,
+      "time": 1421,
+      "speed": 18
+    },
+    {
+      "latitude": 63.79,
+      "longitude": -22.779,
+      "date": 20080401,
+      "time": 1422,
+      "speed": 17
+    },
+    {
+      "latitude": 63.789,
+      "longitude": -22.774,
+      "date": 20080401,
+      "time": 1423,
+      "speed": 28
+    },
+    {
+      "latitude": 63.788,
+      "longitude": -22.769,
+      "date": 20080401,
+      "time": 1424,
+      "speed": 16
+    },
+    {
+      "latitude": 63.787,
+      "longitude": -22.764,
+      "date": 20080401,
+      "time": 1425,
+      "speed": 30
+    },
+    {
+      "latitude": 63.785,
+      "longitude": -22.759,
+      "date": 20080401,
+      "time": 1426,
+      "speed": 30
+    },
+    {
+      "latitude": 63.784,
+      "longitude": -22.754,
+      "date": 20080401,
+      "time": 1427,
+      "speed": 16
+    },
+    {
+      "latitude": 63.783,
+      "longitude": -22.749,
+      "date": 20080401,
+      "time": 1428,
+      "speed": 26
+    },
+    {
+      "latitude": 63.782,
+      "longitude": -22.744,
+      "date": 20080401,
+      "time": 1429,
+      "speed": 13
+    },
+    {
+      "latitude": 63.78,
+      "longitude": -22.739,
+      "date": 20080401,
+      "time": 1430,
+      "speed": 24
+    },
+    {
+      "latitude": 63.779,
+      "longitude": -22.734,
+      "date": 20080401,
+      "time": 1431,
+      "speed": 26
+    },
+    {
+      "latitude": 63.778,
+      "longitude": -22.729,
+      "date": 20080401,
+      "time": 1432,
+      "speed": 32
+    },
+    {
+      "latitude": 63.776,
+      "longitude": -22.725,
+      "date": 20080401,
+      "time": 1433,
+      "speed": 30
+    },
+    {
+      "latitude": 63.774,
+      "longitude": -22.721,
+      "date": 20080401,
+      "time": 1434,
+      "speed": 31
+    },
+    {
+      "latitude": 63.772,
+      "longitude": -22.717,
+      "date": 20080401,
+      "time": 1435,
+      "speed": 22
+    },
+    {
+      "latitude": 63.769,
+      "longitude": -22.715,
+      "date": 20080401,
+      "time": 1436,
+      "speed": 22
+    },
+    {
+      "latitude": 63.766,
+      "longitude": -22.713,
+      "date": 20080401,
+      "time": 1437,
+      "speed": 22
+    },
+    {
+      "latitude": 63.764,
+      "longitude": -22.711,
+      "date": 20080401,
+      "time": 1438,
+      "speed": 20
+    },
+    {
+      "latitude": 63.761,
+      "longitude": -22.709,
+      "date": 20080401,
+      "time": 1439,
+      "speed": 15
+    },
+    {
+      "latitude": 63.758,
+      "longitude": -22.708,
+      "date": 20080401,
+      "time": 1440,
+      "speed": 27
+    },
+    {
+      "latitude": 63.755,
+      "longitude": -22.706,
+      "date": 20080401,
+      "time": 1441,
+      "speed": 15
+    },
+    {
+      "latitude": 63.752,
+      "longitude": -22.704,
+      "date": 20080401,
+      "time": 1442,
+      "speed": 20
+    },
+    {
+      "latitude": 63.749,
+      "longitude": -22.702,
+      "date": 20080401,
+      "time": 1443,
+      "speed": 30
+    },
+    {
+      "latitude": 63.747,
+      "longitude": -22.7,
+      "date": 20080401,
+      "time": 1444,
+      "speed": 29
+    },
+    {
+      "latitude": 63.744,
+      "longitude": -22.698,
+      "date": 20080401,
+      "time": 1445,
+      "speed": 15
+    },
+    {
+      "latitude": 63.741,
+      "longitude": -22.697,
+      "date": 20080401,
+      "time": 1446,
+      "speed": 15
+    },
+    {
+      "latitude": 63.738,
+      "longitude": -22.695,
+      "date": 20080401,
+      "time": 1447,
+      "speed": 30
+    },
+    {
+      "latitude": 63.736,
+      "longitude": -22.693,
+      "date": 20080401,
+      "time": 1448,
+      "speed": 15
+    },
+    {
+      "latitude": 63.733,
+      "longitude": -22.691,
+      "date": 20080401,
+      "time": 1449,
+      "speed": 16
+    },
+    {
+      "latitude": 63.73,
+      "longitude": -22.689,
+      "date": 20080401,
+      "time": 1450,
+      "speed": 26
+    },
+    {
+      "latitude": 63.727,
+      "longitude": -22.688,
+      "date": 20080401,
+      "time": 1451,
+      "speed": 25
+    },
+    {
+      "latitude": 63.724,
+      "longitude": -22.686,
+      "date": 20080401,
+      "time": 1452,
+      "speed": 21
+    },
+    {
+      "latitude": 63.721,
+      "longitude": -22.684,
+      "date": 20080401,
+      "time": 1453,
+      "speed": 23
+    },
+    {
+      "latitude": 63.718,
+      "longitude": -22.683,
+      "date": 20080401,
+      "time": 1454,
+      "speed": 14
+    },
+    {
+      "latitude": 63.715,
+      "longitude": -22.681,
+      "date": 20080401,
+      "time": 1455,
+      "speed": 22
+    },
+    {
+      "latitude": 63.713,
+      "longitude": -22.679,
+      "date": 20080401,
+      "time": 1456,
+      "speed": 17
+    },
+    {
+      "latitude": 63.71,
+      "longitude": -22.677,
+      "date": 20080401,
+      "time": 1457,
+      "speed": 15
+    },
+    {
+      "latitude": 63.707,
+      "longitude": -22.676,
+      "date": 20080401,
+      "time": 1458,
+      "speed": 17
+    },
+    {
+      "latitude": 63.704,
+      "longitude": -22.674,
+      "date": 20080401,
+      "time": 1459,
+      "speed": 30
+    },
+    {
+      "latitude": 63.701,
+      "longitude": -22.673,
+      "date": 20080401,
+      "time": 1500,
+      "speed": 32
+    },
+    {
+      "latitude": 63.699,
+      "longitude": -22.671,
+      "date": 20080401,
+      "time": 1501,
+      "speed": 19
+    },
+    {
+      "latitude": 63.696,
+      "longitude": -22.669,
+      "date": 20080401,
+      "time": 1502,
+      "speed": 19
+    },
+    {
+      "latitude": 63.693,
+      "longitude": -22.668,
+      "date": 20080401,
+      "time": 1503,
+      "speed": 15
+    },
+    {
+      "latitude": 63.69,
+      "longitude": -22.666,
+      "date": 20080401,
+      "time": 1504,
+      "speed": 25
+    },
+    {
+      "latitude": 63.687,
+      "longitude": -22.665,
+      "date": 20080401,
+      "time": 1505,
+      "speed": 22
+    },
+    {
+      "latitude": 63.684,
+      "longitude": -22.663,
+      "date": 20080401,
+      "time": 1506,
+      "speed": 27
+    },
+    {
+      "latitude": 63.682,
+      "longitude": -22.662,
+      "date": 20080401,
+      "time": 1507,
+      "speed": 16
+    },
+    {
+      "latitude": 63.679,
+      "longitude": -22.66,
+      "date": 20080401,
+      "time": 1508,
+      "speed": 20
+    },
+    {
+      "latitude": 63.676,
+      "longitude": -22.658,
+      "date": 20080401,
+      "time": 1509,
+      "speed": 32
+    },
+    {
+      "latitude": 63.673,
+      "longitude": -22.657,
+      "date": 20080401,
+      "time": 1510,
+      "speed": 13
+    },
+    {
+      "latitude": 63.67,
+      "longitude": -22.655,
+      "date": 20080401,
+      "time": 1511,
+      "speed": 27
+    },
+    {
+      "latitude": 63.667,
+      "longitude": -22.654,
+      "date": 20080401,
+      "time": 1512,
+      "speed": 22
+    },
+    {
+      "latitude": 63.664,
+      "longitude": -22.652,
+      "date": 20080401,
+      "time": 1513,
+      "speed": 25
+    },
+    {
+      "latitude": 63.662,
+      "longitude": -22.65,
+      "date": 20080401,
+      "time": 1514,
+      "speed": 20
+    },
+    {
+      "latitude": 63.659,
+      "longitude": -22.649,
+      "date": 20080401,
+      "time": 1515,
+      "speed": 18
+    },
+    {
+      "latitude": 63.656,
+      "longitude": -22.647,
+      "date": 20080401,
+      "time": 1516,
+      "speed": 30
+    },
+    {
+      "latitude": 63.653,
+      "longitude": -22.645,
+      "date": 20080401,
+      "time": 1517,
+      "speed": 27
+    },
+    {
+      "latitude": 63.65,
+      "longitude": -22.644,
+      "date": 20080401,
+      "time": 1518,
+      "speed": 18
+    },
+    {
+      "latitude": 63.647,
+      "longitude": -22.642,
+      "date": 20080401,
+      "time": 1519,
+      "speed": 18
+    },
+    {
+      "latitude": 63.644,
+      "longitude": -22.64,
+      "date": 20080401,
+      "time": 1520,
+      "speed": 24
+    },
+    {
+      "latitude": 63.641,
+      "longitude": -22.639,
+      "date": 20080401,
+      "time": 1521,
+      "speed": 20
+    },
+    {
+      "latitude": 63.638,
+      "longitude": -22.637,
+      "date": 20080401,
+      "time": 1522,
+      "speed": 15
+    },
+    {
+      "latitude": 63.635,
+      "longitude": -22.636,
+      "date": 20080401,
+      "time": 1523,
+      "speed": 28
+    },
+    {
+      "latitude": 63.632,
+      "longitude": -22.634,
+      "date": 20080401,
+      "time": 1524,
+      "speed": 23
+    },
+    {
+      "latitude": 63.629,
+      "longitude": -22.632,
+      "date": 20080401,
+      "time": 1525,
+      "speed": 13
+    },
+    {
+      "latitude": 63.626,
+      "longitude": -22.631,
+      "date": 20080401,
+      "time": 1526,
+      "speed": 23
+    },
+    {
+      "latitude": 63.624,
+      "longitude": -22.629,
+      "date": 20080401,
+      "time": 1527,
+      "speed": 27
+    },
+    {
+      "latitude": 63.621,
+      "longitude": -22.628,
+      "date": 20080401,
+      "time": 1528,
+      "speed": 32
+    },
+    {
+      "latitude": 63.618,
+      "longitude": -22.626,
+      "date": 20080401,
+      "time": 1529,
+      "speed": 16
+    },
+    {
+      "latitude": 63.615,
+      "longitude": -22.625,
+      "date": 20080401,
+      "time": 1530,
+      "speed": 31
+    },
+    {
+      "latitude": 63.612,
+      "longitude": -22.623,
+      "date": 20080401,
+      "time": 1531,
+      "speed": 17
+    },
+    {
+      "latitude": 63.609,
+      "longitude": -22.622,
+      "date": 20080401,
+      "time": 1532,
+      "speed": 17
+    },
+    {
+      "latitude": 63.606,
+      "longitude": -22.62,
+      "date": 20080401,
+      "time": 1533,
+      "speed": 31
+    },
+    {
+      "latitude": 63.603,
+      "longitude": -22.618,
+      "date": 20080401,
+      "time": 1534,
+      "speed": 19
+    },
+    {
+      "latitude": 63.6,
+      "longitude": -22.617,
+      "date": 20080401,
+      "time": 1535,
+      "speed": 19
+    },
+    {
+      "latitude": 63.597,
+      "longitude": -22.615,
+      "date": 20080401,
+      "time": 1536,
+      "speed": 32
+    },
+    {
+      "latitude": 63.594,
+      "longitude": -22.613,
+      "date": 20080401,
+      "time": 1537,
+      "speed": 29
+    },
+    {
+      "latitude": 63.592,
+      "longitude": -22.612,
+      "date": 20080401,
+      "time": 1538,
+      "speed": 26
+    },
+    {
+      "latitude": 63.589,
+      "longitude": -22.61,
+      "date": 20080401,
+      "time": 1539,
+      "speed": 21
+    },
+    {
+      "latitude": 63.586,
+      "longitude": -22.608,
+      "date": 20080401,
+      "time": 1540,
+      "speed": 16
+    },
+    {
+      "latitude": 63.583,
+      "longitude": -22.607,
+      "date": 20080401,
+      "time": 1541,
+      "speed": 15
+    },
+    {
+      "latitude": 63.58,
+      "longitude": -22.605,
+      "date": 20080401,
+      "time": 1542,
+      "speed": 27
+    },
+    {
+      "latitude": 63.577,
+      "longitude": -22.604,
+      "date": 20080401,
+      "time": 1543,
+      "speed": 32
+    },
+    {
+      "latitude": 63.574,
+      "longitude": -22.602,
+      "date": 20080401,
+      "time": 1544,
+      "speed": 31
+    },
+    {
+      "latitude": 63.572,
+      "longitude": -22.601,
+      "date": 20080401,
+      "time": 1545,
+      "speed": 13
+    },
+    {
+      "latitude": 63.57,
+      "longitude": -22.599,
+      "date": 20080401,
+      "time": 1546,
+      "speed": 15
+    },
+    {
+      "latitude": 63.569,
+      "longitude": -22.599,
+      "date": 20080401,
+      "time": 1547,
+      "speed": 28
+    },
+    {
+      "latitude": 63.569,
+      "longitude": -22.598,
+      "date": 20080401,
+      "time": 1548,
+      "speed": 25
+    },
+    {
+      "latitude": 63.569,
+      "longitude": -22.599,
+      "date": 20080401,
+      "time": 1549,
+      "speed": 32
+    },
+    {
+      "latitude": 63.569,
+      "longitude": -22.599,
+      "date": 20080401,
+      "time": 1550,
+      "speed": 26
+    },
+    {
+      "latitude": 63.569,
+      "longitude": -22.6,
+      "date": 20080401,
+      "time": 1551,
+      "speed": 28
+    },
+    {
+      "latitude": 63.569,
+      "longitude": -22.6,
+      "date": 20080401,
+      "time": 1552,
+      "speed": 21
+    },
+    {
+      "latitude": 63.569,
+      "longitude": -22.6,
+      "date": 20080401,
+      "time": 1553,
+      "speed": 14
+    },
+    {
+      "latitude": 63.568,
+      "longitude": -22.602,
+      "date": 20080401,
+      "time": 1554,
+      "speed": 27
+    },
+    {
+      "latitude": 63.567,
+      "longitude": -22.604,
+      "date": 20080401,
+      "time": 1555,
+      "speed": 31
+    },
+    {
+      "latitude": 63.566,
+      "longitude": -22.606,
+      "date": 20080401,
+      "time": 1556,
+      "speed": 18
+    },
+    {
+      "latitude": 63.564,
+      "longitude": -22.608,
+      "date": 20080401,
+      "time": 1557,
+      "speed": 20
+    },
+    {
+      "latitude": 63.563,
+      "longitude": -22.61,
+      "date": 20080401,
+      "time": 1558,
+      "speed": 32
+    },
+    {
+      "latitude": 63.563,
+      "longitude": -22.611,
+      "date": 20080401,
+      "time": 1559,
+      "speed": 25
+    },
+    {
+      "latitude": 63.562,
+      "longitude": -22.611,
+      "date": 20080401,
+      "time": 1600,
+      "speed": 19
+    },
+    {
+      "latitude": 63.562,
+      "longitude": -22.612,
+      "date": 20080401,
+      "time": 1601,
+      "speed": 22
+    },
+    {
+      "latitude": 63.562,
+      "longitude": -22.612,
+      "date": 20080401,
+      "time": 1602,
+      "speed": 32
+    },
+    {
+      "latitude": 63.562,
+      "longitude": -22.613,
+      "date": 20080401,
+      "time": 1603,
+      "speed": 21
+    },
+    {
+      "latitude": 63.562,
+      "longitude": -22.614,
+      "date": 20080401,
+      "time": 1604,
+      "speed": 14
+    },
+    {
+      "latitude": 63.563,
+      "longitude": -22.615,
+      "date": 20080401,
+      "time": 1605,
+      "speed": 17
+    },
+    {
+      "latitude": 63.563,
+      "longitude": -22.615,
+      "date": 20080401,
+      "time": 1606,
+      "speed": 13
+    },
+    {
+      "latitude": 63.563,
+      "longitude": -22.616,
+      "date": 20080401,
+      "time": 1607,
+      "speed": 24
+    },
+    {
+      "latitude": 63.563,
+      "longitude": -22.617,
+      "date": 20080401,
+      "time": 1608,
+      "speed": 22
+    },
+    {
+      "latitude": 63.563,
+      "longitude": -22.617,
+      "date": 20080401,
+      "time": 1609,
+      "speed": 28
+    },
+    {
+      "latitude": 63.563,
+      "longitude": -22.618,
+      "date": 20080401,
+      "time": 1610,
+      "speed": 27
+    },
+    {
+      "latitude": 63.563,
+      "longitude": -22.619,
+      "date": 20080401,
+      "time": 1611,
+      "speed": 18
+    },
+    {
+      "latitude": 63.564,
+      "longitude": -22.619,
+      "date": 20080401,
+      "time": 1612,
+      "speed": 18
+    },
+    {
+      "latitude": 63.564,
+      "longitude": -22.62,
+      "date": 20080401,
+      "time": 1613,
+      "speed": 17
+    },
+    {
+      "latitude": 63.564,
+      "longitude": -22.62,
+      "date": 20080401,
+      "time": 1614,
+      "speed": 29
+    },
+    {
+      "latitude": 63.564,
+      "longitude": -22.621,
+      "date": 20080401,
+      "time": 1615,
+      "speed": 29
+    },
+    {
+      "latitude": 63.564,
+      "longitude": -22.622,
+      "date": 20080401,
+      "time": 1616,
+      "speed": 20
+    },
+    {
+      "latitude": 63.565,
+      "longitude": -22.622,
+      "date": 20080401,
+      "time": 1617,
+      "speed": 15
+    },
+    {
+      "latitude": 63.565,
+      "longitude": -22.623,
+      "date": 20080401,
+      "time": 1618,
+      "speed": 17
+    },
+    {
+      "latitude": 63.565,
+      "longitude": -22.624,
+      "date": 20080401,
+      "time": 1619,
+      "speed": 13
+    },
+    {
+      "latitude": 63.565,
+      "longitude": -22.624,
+      "date": 20080401,
+      "time": 1620,
+      "speed": 15
+    },
+    {
+      "latitude": 63.565,
+      "longitude": -22.625,
+      "date": 20080401,
+      "time": 1621,
+      "speed": 27
+    },
+    {
+      "latitude": 63.565,
+      "longitude": -22.625,
+      "date": 20080401,
+      "time": 1622,
+      "speed": 15
+    },
+    {
+      "latitude": 63.565,
+      "longitude": -22.626,
+      "date": 20080401,
+      "time": 1623,
+      "speed": 20
+    },
+    {
+      "latitude": 63.565,
+      "longitude": -22.627,
+      "date": 20080401,
+      "time": 1624,
+      "speed": 18
+    },
+    {
+      "latitude": 63.565,
+      "longitude": -22.628,
+      "date": 20080401,
+      "time": 1625,
+      "speed": 15
+    },
+    {
+      "latitude": 63.565,
+      "longitude": -22.628,
+      "date": 20080401,
+      "time": 1626,
+      "speed": 24
+    },
+    {
+      "latitude": 63.565,
+      "longitude": -22.629,
+      "date": 20080401,
+      "time": 1627,
+      "speed": 26
+    },
+    {
+      "latitude": 63.566,
+      "longitude": -22.63,
+      "date": 20080401,
+      "time": 1628,
+      "speed": 26
+    },
+    {
+      "latitude": 63.566,
+      "longitude": -22.63,
+      "date": 20080401,
+      "time": 1629,
+      "speed": 21
+    },
+    {
+      "latitude": 63.566,
+      "longitude": -22.631,
+      "date": 20080401,
+      "time": 1630,
+      "speed": 25
+    },
+    {
+      "latitude": 63.566,
+      "longitude": -22.632,
+      "date": 20080401,
+      "time": 1631,
+      "speed": 13
+    },
+    {
+      "latitude": 63.566,
+      "longitude": -22.632,
+      "date": 20080401,
+      "time": 1632,
+      "speed": 26
+    },
+    {
+      "latitude": 63.566,
+      "longitude": -22.633,
+      "date": 20080401,
+      "time": 1633,
+      "speed": 27
+    },
+    {
+      "latitude": 63.566,
+      "longitude": -22.634,
+      "date": 20080401,
+      "time": 1634,
+      "speed": 19
+    },
+    {
+      "latitude": 63.566,
+      "longitude": -22.634,
+      "date": 20080401,
+      "time": 1635,
+      "speed": 30
+    },
+    {
+      "latitude": 63.566,
+      "longitude": -22.635,
+      "date": 20080401,
+      "time": 1636,
+      "speed": 17
+    },
+    {
+      "latitude": 63.565,
+      "longitude": -22.636,
+      "date": 20080401,
+      "time": 1637,
+      "speed": 22
+    },
+    {
+      "latitude": 63.565,
+      "longitude": -22.636,
+      "date": 20080401,
+      "time": 1638,
+      "speed": 20
+    },
+    {
+      "latitude": 63.565,
+      "longitude": -22.637,
+      "date": 20080401,
+      "time": 1639,
+      "speed": 25
+    },
+    {
+      "latitude": 63.565,
+      "longitude": -22.638,
+      "date": 20080401,
+      "time": 1640,
+      "speed": 29
+    },
+    {
+      "latitude": 63.565,
+      "longitude": -22.638,
+      "date": 20080401,
+      "time": 1641,
+      "speed": 22
+    },
+    {
+      "latitude": 63.565,
+      "longitude": -22.639,
+      "date": 20080401,
+      "time": 1642,
+      "speed": 25
+    },
+    {
+      "latitude": 63.565,
+      "longitude": -22.64,
+      "date": 20080401,
+      "time": 1643,
+      "speed": 13
+    },
+    {
+      "latitude": 63.565,
+      "longitude": -22.64,
+      "date": 20080401,
+      "time": 1644,
+      "speed": 14
+    },
+    {
+      "latitude": 63.565,
+      "longitude": -22.641,
+      "date": 20080401,
+      "time": 1645,
+      "speed": 26
+    },
+    {
+      "latitude": 63.564,
+      "longitude": -22.642,
+      "date": 20080401,
+      "time": 1646,
+      "speed": 24
+    },
+    {
+      "latitude": 63.564,
+      "longitude": -22.642,
+      "date": 20080401,
+      "time": 1647,
+      "speed": 17
+    },
+    {
+      "latitude": 63.564,
+      "longitude": -22.643,
+      "date": 20080401,
+      "time": 1648,
+      "speed": 15
+    },
+    {
+      "latitude": 63.564,
+      "longitude": -22.643,
+      "date": 20080401,
+      "time": 1649,
+      "speed": 20
+    },
+    {
+      "latitude": 63.563,
+      "longitude": -22.644,
+      "date": 20080401,
+      "time": 1650,
+      "speed": 15
+    },
+    {
+      "latitude": 63.563,
+      "longitude": -22.644,
+      "date": 20080401,
+      "time": 1651,
+      "speed": 28
+    },
+    {
+      "latitude": 63.563,
+      "longitude": -22.645,
+      "date": 20080401,
+      "time": 1652,
+      "speed": 28
+    },
+    {
+      "latitude": 63.563,
+      "longitude": -22.645,
+      "date": 20080401,
+      "time": 1653,
+      "speed": 26
+    },
+    {
+      "latitude": 63.563,
+      "longitude": -22.646,
+      "date": 20080401,
+      "time": 1654,
+      "speed": 15
+    },
+    {
+      "latitude": 63.562,
+      "longitude": -22.646,
+      "date": 20080401,
+      "time": 1655,
+      "speed": 30
+    },
+    {
+      "latitude": 63.561,
+      "longitude": -22.646,
+      "date": 20080401,
+      "time": 1656,
+      "speed": 28
+    },
+    {
+      "latitude": 63.559,
+      "longitude": -22.645,
+      "date": 20080401,
+      "time": 1657,
+      "speed": 16
+    },
+    {
+      "latitude": 63.557,
+      "longitude": -22.643,
+      "date": 20080401,
+      "time": 1658,
+      "speed": 27
+    },
+    {
+      "latitude": 63.555,
+      "longitude": -22.642,
+      "date": 20080401,
+      "time": 1659,
+      "speed": 18
+    },
+    {
+      "latitude": 63.552,
+      "longitude": -22.64,
+      "date": 20080401,
+      "time": 1700,
+      "speed": 18
+    },
+    {
+      "latitude": 63.55,
+      "longitude": -22.639,
+      "date": 20080401,
+      "time": 1701,
+      "speed": 25
+    },
+    {
+      "latitude": 63.547,
+      "longitude": -22.637,
+      "date": 20080401,
+      "time": 1702,
+      "speed": 13
+    },
+    {
+      "latitude": 63.545,
+      "longitude": -22.635,
+      "date": 20080401,
+      "time": 1703,
+      "speed": 24
+    },
+    {
+      "latitude": 63.542,
+      "longitude": -22.634,
+      "date": 20080401,
+      "time": 1704,
+      "speed": 30
+    },
+    {
+      "latitude": 63.54,
+      "longitude": -22.632,
+      "date": 20080401,
+      "time": 1705,
+      "speed": 13
+    },
+    {
+      "latitude": 63.537,
+      "longitude": -22.631,
+      "date": 20080401,
+      "time": 1706,
+      "speed": 13
+    },
+    {
+      "latitude": 63.535,
+      "longitude": -22.63,
+      "date": 20080401,
+      "time": 1707,
+      "speed": 24
+    },
+    {
+      "latitude": 63.532,
+      "longitude": -22.628,
+      "date": 20080401,
+      "time": 1708,
+      "speed": 15
+    },
+    {
+      "latitude": 63.53,
+      "longitude": -22.627,
+      "date": 20080401,
+      "time": 1709,
+      "speed": 15
+    },
+    {
+      "latitude": 63.527,
+      "longitude": -22.626,
+      "date": 20080401,
+      "time": 1710,
+      "speed": 28
+    },
+    {
+      "latitude": 63.525,
+      "longitude": -22.624,
+      "date": 20080401,
+      "time": 1711,
+      "speed": 19
+    },
+    {
+      "latitude": 63.522,
+      "longitude": -22.623,
+      "date": 20080401,
+      "time": 1712,
+      "speed": 27
+    },
+    {
+      "latitude": 63.52,
+      "longitude": -22.621,
+      "date": 20080401,
+      "time": 1713,
+      "speed": 19
+    },
+    {
+      "latitude": 63.517,
+      "longitude": -22.62,
+      "date": 20080401,
+      "time": 1714,
+      "speed": 31
+    },
+    {
+      "latitude": 63.514,
+      "longitude": -22.619,
+      "date": 20080401,
+      "time": 1715,
+      "speed": 30
+    },
+    {
+      "latitude": 63.512,
+      "longitude": -22.618,
+      "date": 20080401,
+      "time": 1716,
+      "speed": 25
+    },
+    {
+      "latitude": 63.509,
+      "longitude": -22.616,
+      "date": 20080401,
+      "time": 1717,
+      "speed": 20
+    },
+    {
+      "latitude": 63.507,
+      "longitude": -22.615,
+      "date": 20080401,
+      "time": 1718,
+      "speed": 14
+    },
+    {
+      "latitude": 63.504,
+      "longitude": -22.614,
+      "date": 20080401,
+      "time": 1719,
+      "speed": 23
+    },
+    {
+      "latitude": 63.502,
+      "longitude": -22.612,
+      "date": 20080401,
+      "time": 1720,
+      "speed": 17
+    },
+    {
+      "latitude": 63.499,
+      "longitude": -22.611,
+      "date": 20080401,
+      "time": 1721,
+      "speed": 23
+    },
+    {
+      "latitude": 63.497,
+      "longitude": -22.61,
+      "date": 20080401,
+      "time": 1722,
+      "speed": 18
+    },
+    {
+      "latitude": 63.494,
+      "longitude": -22.608,
+      "date": 20080401,
+      "time": 1723,
+      "speed": 23
+    },
+    {
+      "latitude": 63.491,
+      "longitude": -22.607,
+      "date": 20080401,
+      "time": 1724,
+      "speed": 19
+    },
+    {
+      "latitude": 63.489,
+      "longitude": -22.605,
+      "date": 20080401,
+      "time": 1725,
+      "speed": 23
+    },
+    {
+      "latitude": 63.486,
+      "longitude": -22.604,
+      "date": 20080401,
+      "time": 1726,
+      "speed": 16
+    },
+    {
+      "latitude": 63.484,
+      "longitude": -22.602,
+      "date": 20080401,
+      "time": 1727,
+      "speed": 21
+    },
+    {
+      "latitude": 63.481,
+      "longitude": -22.601,
+      "date": 20080401,
+      "time": 1728,
+      "speed": 23
+    },
+    {
+      "latitude": 63.478,
+      "longitude": -22.599,
+      "date": 20080401,
+      "time": 1729,
+      "speed": 13
+    },
+    {
+      "latitude": 63.476,
+      "longitude": -22.598,
+      "date": 20080401,
+      "time": 1730,
+      "speed": 27
+    },
+    {
+      "latitude": 63.473,
+      "longitude": -22.596,
+      "date": 20080401,
+      "time": 1731,
+      "speed": 26
+    },
+    {
+      "latitude": 63.471,
+      "longitude": -22.595,
+      "date": 20080401,
+      "time": 1732,
+      "speed": 26
+    },
+    {
+      "latitude": 63.468,
+      "longitude": -22.593,
+      "date": 20080401,
+      "time": 1733,
+      "speed": 16
+    },
+    {
+      "latitude": 63.465,
+      "longitude": -22.592,
+      "date": 20080401,
+      "time": 1734,
+      "speed": 22
+    },
+    {
+      "latitude": 63.463,
+      "longitude": -22.59,
+      "date": 20080401,
+      "time": 1735,
+      "speed": 19
+    },
+    {
+      "latitude": 63.46,
+      "longitude": -22.589,
+      "date": 20080401,
+      "time": 1736,
+      "speed": 14
+    },
+    {
+      "latitude": 63.458,
+      "longitude": -22.587,
+      "date": 20080401,
+      "time": 1737,
+      "speed": 13
+    },
+    {
+      "latitude": 63.455,
+      "longitude": -22.586,
+      "date": 20080401,
+      "time": 1738,
+      "speed": 24
+    },
+    {
+      "latitude": 63.453,
+      "longitude": -22.584,
+      "date": 20080401,
+      "time": 1739,
+      "speed": 32
+    },
+    {
+      "latitude": 63.45,
+      "longitude": -22.583,
+      "date": 20080401,
+      "time": 1740,
+      "speed": 27
+    },
+    {
+      "latitude": 63.447,
+      "longitude": -22.581,
+      "date": 20080401,
+      "time": 1741,
+      "speed": 25
+    },
+    {
+      "latitude": 63.445,
+      "longitude": -22.579,
+      "date": 20080401,
+      "time": 1742,
+      "speed": 14
+    },
+    {
+      "latitude": 63.443,
+      "longitude": -22.578,
+      "date": 20080401,
+      "time": 1743,
+      "speed": 25
+    },
+    {
+      "latitude": 63.44,
+      "longitude": -22.576,
+      "date": 20080401,
+      "time": 1744,
+      "speed": 18
+    },
+    {
+      "latitude": 63.437,
+      "longitude": -22.575,
+      "date": 20080401,
+      "time": 1745,
+      "speed": 27
+    },
+    {
+      "latitude": 63.435,
+      "longitude": -22.573,
+      "date": 20080401,
+      "time": 1746,
+      "speed": 30
+    },
+    {
+      "latitude": 63.432,
+      "longitude": -22.571,
+      "date": 20080401,
+      "time": 1747,
+      "speed": 23
+    },
+    {
+      "latitude": 63.43,
+      "longitude": -22.57,
+      "date": 20080401,
+      "time": 1748,
+      "speed": 16
+    },
+    {
+      "latitude": 63.427,
+      "longitude": -22.568,
+      "date": 20080401,
+      "time": 1749,
+      "speed": 18
+    },
+    {
+      "latitude": 63.424,
+      "longitude": -22.566,
+      "date": 20080401,
+      "time": 1750,
+      "speed": 16
+    },
+    {
+      "latitude": 63.422,
+      "longitude": -22.565,
+      "date": 20080401,
+      "time": 1751,
+      "speed": 23
+    },
+    {
+      "latitude": 63.419,
+      "longitude": -22.563,
+      "date": 20080401,
+      "time": 1752,
+      "speed": 23
+    },
+    {
+      "latitude": 63.417,
+      "longitude": -22.561,
+      "date": 20080401,
+      "time": 1753,
+      "speed": 15
+    },
+    {
+      "latitude": 63.414,
+      "longitude": -22.559,
+      "date": 20080401,
+      "time": 1754,
+      "speed": 21
+    },
+    {
+      "latitude": 63.412,
+      "longitude": -22.558,
+      "date": 20080401,
+      "time": 1755,
+      "speed": 28
+    },
+    {
+      "latitude": 63.41,
+      "longitude": -22.556,
+      "date": 20080401,
+      "time": 1756,
+      "speed": 29
+    },
+    {
+      "latitude": 63.407,
+      "longitude": -22.555,
+      "date": 20080401,
+      "time": 1757,
+      "speed": 25
+    },
+    {
+      "latitude": 63.404,
+      "longitude": -22.553,
+      "date": 20080401,
+      "time": 1758,
+      "speed": 19
+    },
+    {
+      "latitude": 63.402,
+      "longitude": -22.551,
+      "date": 20080401,
+      "time": 1759,
+      "speed": 17
+    },
+    {
+      "latitude": 63.399,
+      "longitude": -22.55,
+      "date": 20080401,
+      "time": 1800,
+      "speed": 18
+    },
+    {
+      "latitude": 63.397,
+      "longitude": -22.548,
+      "date": 20080401,
+      "time": 1801,
+      "speed": 19
+    },
+    {
+      "latitude": 63.394,
+      "longitude": -22.547,
+      "date": 20080401,
+      "time": 1802,
+      "speed": 25
+    },
+    {
+      "latitude": 63.392,
+      "longitude": -22.545,
+      "date": 20080401,
+      "time": 1803,
+      "speed": 25
+    },
+    {
+      "latitude": 63.389,
+      "longitude": -22.543,
+      "date": 20080401,
+      "time": 1804,
+      "speed": 21
+    },
+    {
+      "latitude": 63.386,
+      "longitude": -22.542,
+      "date": 20080401,
+      "time": 1805,
+      "speed": 22
+    },
+    {
+      "latitude": 63.384,
+      "longitude": -22.54,
+      "date": 20080401,
+      "time": 1806,
+      "speed": 31
+    },
+    {
+      "latitude": 63.381,
+      "longitude": -22.539,
+      "date": 20080401,
+      "time": 1807,
+      "speed": 23
+    },
+    {
+      "latitude": 63.379,
+      "longitude": -22.537,
+      "date": 20080401,
+      "time": 1808,
+      "speed": 28
+    },
+    {
+      "latitude": 63.376,
+      "longitude": -22.536,
+      "date": 20080401,
+      "time": 1809,
+      "speed": 27
+    },
+    {
+      "latitude": 63.374,
+      "longitude": -22.535,
+      "date": 20080401,
+      "time": 1810,
+      "speed": 30
+    },
+    {
+      "latitude": 63.371,
+      "longitude": -22.533,
+      "date": 20080401,
+      "time": 1811,
+      "speed": 30
+    },
+    {
+      "latitude": 63.368,
+      "longitude": -22.532,
+      "date": 20080401,
+      "time": 1812,
+      "speed": 21
+    },
+    {
+      "latitude": 63.366,
+      "longitude": -22.53,
+      "date": 20080401,
+      "time": 1813,
+      "speed": 23
+    },
+    {
+      "latitude": 63.363,
+      "longitude": -22.529,
+      "date": 20080401,
+      "time": 1814,
+      "speed": 16
+    },
+    {
+      "latitude": 63.36,
+      "longitude": -22.527,
+      "date": 20080401,
+      "time": 1815,
+      "speed": 18
+    },
+    {
+      "latitude": 63.358,
+      "longitude": -22.526,
+      "date": 20080401,
+      "time": 1816,
+      "speed": 25
+    },
+    {
+      "latitude": 63.356,
+      "longitude": -22.525,
+      "date": 20080401,
+      "time": 1817,
+      "speed": 21
+    },
+    {
+      "latitude": 63.353,
+      "longitude": -22.523,
+      "date": 20080401,
+      "time": 1818,
+      "speed": 21
+    },
+    {
+      "latitude": 63.35,
+      "longitude": -22.522,
+      "date": 20080401,
+      "time": 1819,
+      "speed": 28
+    },
+    {
+      "latitude": 63.348,
+      "longitude": -22.52,
+      "date": 20080401,
+      "time": 1820,
+      "speed": 19
+    },
+    {
+      "latitude": 63.345,
+      "longitude": -22.519,
+      "date": 20080401,
+      "time": 1821,
+      "speed": 16
+    },
+    {
+      "latitude": 63.343,
+      "longitude": -22.517,
+      "date": 20080401,
+      "time": 1822,
+      "speed": 23
+    },
+    {
+      "latitude": 63.34,
+      "longitude": -22.516,
+      "date": 20080401,
+      "time": 1823,
+      "speed": 27
+    }
+  ]
